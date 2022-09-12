@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "start": "node index.html"
+    "start": "node main.jsx"
   },
   "dependencies": {
     "axios": "^0.27.2",
